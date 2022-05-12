@@ -29,4 +29,5 @@ ActiveRecord::Schema.define(version: 2022_05_12_144637) do
     t.boolean "admin", default: false
   end
 
+  
 end
